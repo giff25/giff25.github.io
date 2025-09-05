@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+I'm a senior Computer Science student developing a DSP AI.
 
-Maybe say a some things about yourself.
+It will be responsible for predicting the velocity value from the input signal;furthermore, it will provide it to the existing algorithm that packages and outputs it as a midi note.
 
-Or maybe what you plan to blog about.
+In the future I plan to train the AI to process multiple channels, in an attempt to support positional sensing.
